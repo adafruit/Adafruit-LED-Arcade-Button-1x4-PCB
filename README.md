@@ -3,7 +3,7 @@
 <a href="http://www.adafruit.com/products/5296"><img src="assets/5296.jpg?raw=true" width="500px"><br/>
 Click here to purchase one from the Adafruit shop</a>
 
-PCB files for the Adafruit LED Arcade Button 1x4 - STEMMA QT I2C Breakout - STEMMA QT / Qwiic. 
+PCB files for the Adafruit LED Arcade Button 1x4 - STEMMA QT I2C Breakout
 
 Format is EagleCAD schematic and board layout
 * https://www.adafruit.com/product/5296
